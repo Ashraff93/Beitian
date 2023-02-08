@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Ublox zed-f9p",
+			"path": "Ublox zed-f9p"
 		}
 	],
 	"settings": {}
