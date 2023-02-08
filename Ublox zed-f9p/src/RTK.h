@@ -2,8 +2,8 @@
 #define RTK_H
 
 #include <Arduino.h> //Declared weak in Arduino.h to allow user redefinitions.
-// #include "EnumBoolen.h" //#include "Mm.h" For Enum Logic
-// #include "Debug.h" //#include "Mm.h" For Enum Logic
+#include "EnumBoolen.h" //#include "Mm.h" For Enum Logic
+#include "Debug.h" //#include "Mm.h" For Enum Logic
 #include "SparkFun_Ublox_Arduino_Library.h" //#include "common/mavlink_msg_request_data_stream.h"
 
 
